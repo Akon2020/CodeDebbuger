@@ -1,8 +1,4 @@
-<h1 align="center">✨ SaaS Code Editor - Next.js 15 ✨</h1>
-
-![Demo App](/public/screenshot-for-readme.png)
-
-[Watch Full Tutorial on Youtube](https://youtu.be/fGkRQgf6Scw)
+<h1 align="center">✨ SaaS Code Debbuger - Next.js 15 ✨</h1>
 
 Highlights:
 
@@ -34,6 +30,13 @@ NEXT_PUBLIC_CONVEX_URL=
 CLERK_WEBHOOK_SECRET=
 LEMON_SQUEEZY_WEBHOOK_SECRET=
 ```
+
+### Run convex first
+
+```shell
+npx convex dev
+```
+
 
 ### Run the app
 
